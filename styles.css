@@ -1,0 +1,25 @@
+*,
+*::before,
+*::after{
+    margin: 20;
+    padding: 20;
+    box-sizing: inherit;
+}
+
+header{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: small;
+    font-weight: bold ;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    font-weight: bold;
+}
+
+
+
+html{
+
+    box-sizing: content-box;
+}
